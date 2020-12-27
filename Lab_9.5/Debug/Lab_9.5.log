@@ -1,0 +1,9 @@
+﻿  Source.cpp
+F:\Навчання\Лаб. з АП\Лабораторні 9.1-9.3\Lab_9.5\Lab_9.5\Lab_9.5\Source.cpp(22,23): warning C4018: '<': signed/unsigned mismatch
+F:\Навчання\Лаб. з АП\Лабораторні 9.1-9.3\Lab_9.5\Lab_9.5\Lab_9.5\Source.cpp(48,11): warning C4018: '<': signed/unsigned mismatch
+F:\Навчання\Лаб. з АП\Лабораторні 9.1-9.3\Lab_9.5\Lab_9.5\Lab_9.5\Source.cpp(56,8): warning C4018: '<': signed/unsigned mismatch
+F:\Навчання\Лаб. з АП\Лабораторні 9.1-9.3\Lab_9.5\Lab_9.5\Lab_9.5\Source.cpp(64,23): warning C4018: '<': signed/unsigned mismatch
+F:\Навчання\Лаб. з АП\Лабораторні 9.1-9.3\Lab_9.5\Lab_9.5\Lab_9.5\Source.cpp(72,23): warning C4018: '<': signed/unsigned mismatch
+F:\Навчання\Лаб. з АП\Лабораторні 9.1-9.3\Lab_9.5\Lab_9.5\Lab_9.5\Source.cpp(82,23): warning C4018: '<': signed/unsigned mismatch
+F:\Навчання\Лаб. з АП\Лабораторні 9.1-9.3\Lab_9.5\Lab_9.5\Lab_9.5\Source.cpp(188,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Lab_9.5.vcxproj -> F:\Навчання\Лаб. з АП\Лабораторні 9.1-9.3\Lab_9.5\Lab_9.5\Debug\Lab_9.5.exe
